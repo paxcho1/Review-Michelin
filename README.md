@@ -31,6 +31,9 @@ Tensorflow lite를 이용한 감정분석모델 개발 예정
 #### 사용자 어플 개발
 분석할 매장 선정 및 모델 결과값 출력 용도의 어플 개발 예정
 
+#### 어플 예상 디자인
+<img src = "https://user-images.githubusercontent.com/29854638/159910752-31b66a92-9aa4-4df3-b7d3-b17af906676a.jpg" width="100%" height="100%">
+
 
 
 ### 5. 주요 개발 프로세스
